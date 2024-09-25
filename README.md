@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/SGPJDiFSTvwAAAAd/satoru-gojo.gif)]
+![MasterHead](https://media.tenor.com/SGPJDiFSTvwAAAAd/satoru-gojo.gif)
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
 <img align="right" alt="Coding" width="1000" src="https://i.gifer.com/9TLY.gif">
