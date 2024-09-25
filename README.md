@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0559/4788/6783/files/Sasuke.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/SGPJDiFSTvwAAAAd/satoru-gojo.gif)]
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9TLY.gif">
+<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/9TLY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbroo&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbroo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanbroo" alt="irfanbroo" /></a> </p>
