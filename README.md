@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanbroo&show_icons=true&locale=en" alt="irfanbroo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanbroo&" alt="irfanbroo" /></p>
-[![An image of @irfanbroo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/irfanbroo)](https://holopin.io/@irfanbroo)
+
