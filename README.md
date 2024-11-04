@@ -1,11 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/5a625a50650adc456117dd9bbd24c628339a4e151c042fd5a7564544b2c20ee5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f596c35614f33676456667351302f67697068792e676966)
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
-<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/9TLY.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbroo&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbroo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanbroo" alt="irfanbroo" /></a> </p>
-
 - 📫 How to reach me **irfanroyalxd@gmail.com**
 
 - ⚡ Fun fact **Can you strum an E Minor?**
