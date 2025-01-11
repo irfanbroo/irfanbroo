@@ -1,8 +1,7 @@
 <p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdqNWtuaWFpdWxsNHhqb3d4cXNtNWtpa3JneG13dW4yZnFybHc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N6VJ3yNeV1GPvbMzJF/giphy-downsized-large.gif" alt="MasterHead" width="100%"/> </p> 
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
-<h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">انا ابرمج</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
