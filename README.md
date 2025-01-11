@@ -3,9 +3,6 @@
 <h3 align="center">انا ابرمج</h3>
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
-- 📫 How to reach me **irfanroyalxd@gmail.com**
-
-- ⚡ Fun fact **Can you strum an E Minor?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
