@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw3bGZxb3kxYnV2NzFtaGR6anUxM2lqdHliZzQzenc2eWZlenprYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wmxFLjwxfyyr0YR9qT/giphy.gif" alt="MasterHead" width="100%"/> </p>
+<p align="center"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZhNzBueW04N3kwcHR2aXRseTd4amd3Mm5uaTFvOTNoanVsYWJiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uv6dgvJfouDG4avr6M/giphy.gif" alt="MasterHead" width="100%"/> </p>
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">انا ابرمج</h3>
 - 📫 How to reach me **irfanroyalxd@gmail.com**)
